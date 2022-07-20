@@ -1,0 +1,49 @@
+/*
+#misMangas{
+    display: flex;  
+}
+.titulos{
+background-color: black;
+color: white;
+width: 286px;
+height: 143px;
+margin: 20px;
+}*/
+#misMangas{
+    display: flex;  
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.asd{
+    width: 286px;
+    height: 143px;
+    margin: 20px;
+}
+.asd img{
+    width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
